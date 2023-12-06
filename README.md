@@ -8,3 +8,7 @@ input: An image that contains the license plate
 output: Recognized 4-digit plate number
 
 ![2-num](https://github.com/NaHyeon520/License-Plate-Number-Recognition-Program/assets/62274608/7661d4c9-306b-4678-a1f5-5244d1b4e3fe)
+
+<h2>Structure of the CNN model</h2>
+
+![구조](https://github.com/NaHyeon520/License-Plate-Number-Recognition-Program/assets/62274608/6376c41f-7802-4b8c-bd89-f806669884c4)
